@@ -3,8 +3,14 @@
 This Power BI dashboard project presents an interactive analysis of Shopify's sales and customer funnel performance. It covers various business KPIs and provides actionable insights for decision-making based on real-time sales metrics.
 
 ---
-## DASHBOARD
-https://github.com/riyadewangan08/shopify-sales-analysis/blob/43bb48dca5f271fdf3a61e5d2a964c93ed29bddc/shopify%20dashboard.PNG
+
+## 🖼️ Dashboard Preview
+
+> 📌 *Insert your dashboard screenshot below*
+
+![Shopify Dashboard Preview](dashboard.png)
+
+---
 
 ## 📊 Project Objective
 
@@ -72,4 +78,12 @@ This dashboard serves as a powerful tool for executives and marketing teams to:
 
 Feel free to fork, clone, or contribute to this repository.  
 Created with 💡 using Power BI Desktop.
+---
+
+## 👤 Author
+
+**Riya dewangan**  
+📧EMAIL: riyadew77@gmail.com
+
+
 
