@@ -4,6 +4,7 @@ This Power BI dashboard project presents an interactive analysis of Shopify's sa
 
 ---
 ## DASHBOARD
+https://github.com/riyadewangan08/shopify-sales-analysis/blob/43bb48dca5f271fdf3a61e5d2a964c93ed29bddc/shopify%20dashboard.PNG
 
 ## 📊 Project Objective
 
