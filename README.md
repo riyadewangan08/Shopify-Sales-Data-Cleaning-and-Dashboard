@@ -6,9 +6,10 @@ This Power BI dashboard project presents an interactive analysis of Shopify's sa
 
 ## 🖼️ Dashboard Preview
 
-> 📌 *Insert your dashboard screenshot below*
 
-![Shopify Dashboard Preview]([dashboard.png](https://github.com/riyadewangan08/shopify-sales-analysis/blob/ae1e4ae0353c90654bee612f91b0991cf75ab0ce/shopify%20dashboard.PNG))
+
+![Shopify Dashboard Preview](https://github.com/riyadewangan08/shopify-sales-analysis/raw/main/shopify%20dashboard.PNG)
+
 
 ---
 
