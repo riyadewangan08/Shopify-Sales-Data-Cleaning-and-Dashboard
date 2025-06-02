@@ -25,7 +25,7 @@ The goal of this project is to build a comprehensive dashboard that:
 | File | Description |
 |------|-------------|
 | `shopify_sales_report.pbix` | Power BI file containing the complete dashboard |
-| `dashboard.png` | Screenshot preview of the final dashboard |
+| `shopify sales and funnel dashboard.png` | Screenshot preview of the final dashboard |
 | `README.md` | Project documentation |
 
 ---
