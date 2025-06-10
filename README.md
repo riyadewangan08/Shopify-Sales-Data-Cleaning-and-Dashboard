@@ -72,7 +72,7 @@ This dashboard serves as a powerful tool for executives and marketing teams to:
 
 ---
 
-## 🔗 Connect
+#### 🔗 Connect
 
 Feel free to fork, clone, or contribute to this repository.  
 Created with 💡 using Power BI Desktop.
