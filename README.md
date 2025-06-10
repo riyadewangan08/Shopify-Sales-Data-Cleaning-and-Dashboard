@@ -70,13 +70,6 @@ This dashboard serves as a powerful tool for executives and marketing teams to:
 
 📌 **Note**: All data shown here is for analysis and demonstration purposes only.
 
----
-
-#### 🔗 Connect
-
-Feel free to fork, clone, or contribute to this repository.  
-Created with 💡 using Power BI Desktop.
----
 
 ## 👤 Author
 
