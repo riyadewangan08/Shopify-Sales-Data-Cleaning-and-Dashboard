@@ -1,6 +1,7 @@
 # 🛍️ Shopify Sales and Funnel Analysis Dashboard (Power BI)
+This project presents a complete end-to-end analysis of Shopify sales — starting from cleaning a raw, messy dataset in Python (Jupyter Notebook), performing exploratory data analysis (EDA), and finally building an interactive Power BI dashboard.
+The Power BI dashboard highlights key business KPIs and provides actionable insights to support decision-making based on real-time sales metrics and customer trends.
 
-This Power BI dashboard project presents an interactive analysis of Shopify's sales and customer funnel performance. It covers various business KPIs and provides actionable insights for decision-making based on real-time sales metrics.
 
 ---
 
