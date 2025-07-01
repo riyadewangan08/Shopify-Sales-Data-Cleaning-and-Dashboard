@@ -23,11 +23,15 @@ The goal of this project is to build a comprehensive dashboard that:
 
 ## 📁 Files Included
 
-| File | Description |
-|------|-------------|
-| `shopify sales dashboard and database.pbix` | Power BI file containing the complete dashboard |
-| `shopify sales and funnel dashboard.png` | Screenshot preview of the final dashboard |
-| `README.md` | Project documentation |
+| File Name                                  | Description                                               |
+|--------------------------------------------|-----------------------------------------------------------|
+| `shopify sales dashboard and database.pbix` | Power BI file containing the complete dashboard           |
+| `shopify sales and funnel dashboard.png`    | Screenshot preview of the final dashboard                 |
+| `Shopify_Sales_Data_Cleaning_and_EDA.ipynb` | Jupyter notebook used for data cleaning and EDA           |
+| `Dirty_Shopify_Sales.xlsx`                 | Raw dataset before cleaning                               |
+| `Cleaned_Shopify_Sales.xlsx`               | Final cleaned dataset used for dashboard                  |
+| `README.md`                                | Project documentation                                     |
+
 
 --
 ## 📊 Part 1: Data Cleaning & EDA with Jupyter Notebook
