@@ -28,7 +28,34 @@ The goal of this project is to build a comprehensive dashboard that:
 | `shopify sales and funnel dashboard.png` | Screenshot preview of the final dashboard |
 | `README.md` | Project documentation |
 
+--
+## 📊 Part 1: Data Cleaning & EDA with Jupyter Notebook
+
+All data preprocessing and exploratory data analysis were done in:
+
+📄 `Shopify_Sales_Data_Cleaning_and_EDA.ipynb`
+
+### 🧹 Data Cleaning Steps
+- Handled missing values and typos
+- Converted `'nan'` strings to actual `NaN`
+- Fixed inconsistent casing and invalid dates
+- Removed duplicates and irrelevant columns
+- Handled outliers using 99th percentile filtering
+
+### 📈 Graphs Included in EDA
+- 🔥 Heatmap of missing values
+- 🏙️ Bar chart: Top 10 Cities by Total Sales
+- 📦 Histogram: Distribution of Quantity Ordered
+- 📉 Line plot: Sales Over Time
+- 🧩 Correlation heatmap for numeric columns
+
+📦 Final cleaned dataset: `Cleaned_Shopify_Sales.xlsx`
+
 ---
+
+## 📊 Part 2: Power BI Dashboard
+
+The cleaned dataset was imported into Power BI to build an interactive sales dashboard.
 
 ## 📌 Key Visuals and Features
 
